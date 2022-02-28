@@ -1,0 +1,9 @@
+name: PunchExplosion
+version: 1.0
+main: com.nerdxd.punchexplosion.Main
+api-version: 1.17
+authors: [ NerdXD ]
+description: Creates an Explosion when you punch
+commands:
+  PunchExplosion:
+    aliases: [pe]
